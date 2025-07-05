@@ -1,0 +1,9 @@
+Requirements:
+
+TensorFlow --> pip install tensorflow
+NumPy --> pip install numpy
+Matplotlib.pyplot --> pip install matplotlib.pyplot
+seaborn --> pip install seaborn
+gradio --> pip install gradio
+sklearn --> pip install scikit-learn
+Pillow --> pip install Pillow
